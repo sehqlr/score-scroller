@@ -1,0 +1,17 @@
+Score Scroller Idea Outline
+
+Web Interface with Score Parser
+
+Good is Display Score with Timed Scroller
+Better is Audio Capture
+Best is Audio Initializing
+Superbest is Corrections
+Group Corrections
+
+Web app is one score at a time
+Document parsing is server side
+Database of basic scores for use
+
+
+Technologies we need to use:
+	Audio capture (WebRTC?)
