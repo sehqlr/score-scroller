@@ -1,3 +1,5 @@
+// Rewrite this in jQuery. Use for and while loops as normal.
+
 var source_canvas = document.getElementById('source');
 var source_context = source_canvas.getContext('2d');
 
