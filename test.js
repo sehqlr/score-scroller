@@ -1,14 +1,11 @@
-var source_canvas = document.getElementById('source');
-var source_context = source_canvas.getContext('2d');
-
-var draw_whole = function () {
-	source_context.beginPath();
-	source_context.moveTo(0,0);
-	source_context.lineTo(600, 50);
-	source_context.lineWidth = 10;
-	source_context.strokeStyle = '#a55';
-	source_context.stroke();
-};
+// Rewrite this in jQuery. Use for and while loops as normal. Consider using jQuery plugin for canvas
+$(document).ready(function(){
+	var src_cxt = $('#source').getContext('2d');
+	src_cxt.beginPath();
+	src_cxt.lineTo(600, 50);
+	src_cxt.strokeStyle = '#a55';
+	src_cxt.stroke();
+});
 
 var display_canvas = document.getElementById('display');
 var display_context = display_canvas.getContext('2d');

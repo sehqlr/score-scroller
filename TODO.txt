@@ -1,32 +1,23 @@
 ScoreScroller TODO:
 
-1. Analyze the source code. It might be helpful to write down each
-	JS object on an index card and try to piece the functions together
+Write the Javascript in jQuery. As a note, you can use a regular for loop in jQuery. 
+	Use this to redraw the first canvas onto the second canvas
 
-2. Contact the score-library developers. See if they can give
-	any insight into how the code works or get ideas on implementing
-	the project
-
-3. Once the code is understood, and any help from the developers is given,
-	then we need to add in the scrolling function. It may be as simple as
-	having the sheet music scroll horizontally. Depending
-	on how the code works, this part may be easy
-
-4. Once the basic scrolling functionality is finished, the app is at
+Once the basic scrolling functionality is finished, the app is at
 	version 0.5! This would be a good time to celebrate a little
 
-5. Obtain ten or so scores to demo with the app. Make sure we get the
+Obtain ten or so scores to demo with the app. Make sure we get the
 	MusicXML files
 
-6. Change the User Input controls to fit our program
+Change the User Input controls to fit our program. Use jQuery UI
 
-7. Create the server setup to host the app
+Create the server setup to host the app
 
-8. Pretty it up with web design.
+Pretty it up with web design
 
-9. Bugfixes
+Bugfixes
 
-10. Ship it as version 1.0!
+Ship it as version 1.0!
 
 NOTES:
 
