@@ -1,6 +1,4 @@
-ScoreScroller TODO:
-
-Write the Javascript in jQuery. As a note, you can use a regular for loop in jQuery. 
+Write the Javascript in jQuery. As a note, you can use a regular for loop in jQuery.
 	Use this to redraw the first canvas onto the second canvas
 
 Once the basic scrolling functionality is finished, the app is at
